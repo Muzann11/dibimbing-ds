@@ -16,4 +16,4 @@ The dataset consists of 30 numeric features describing the characteristics of br
 2. Visualizing the decision tree provides deeper insights into the factors influencing breast tumor classification.
 3. This model can serve as an aid in medical diagnostics, enabling faster and more accurate detection of breast tumor types, which is crucial in healthcare.
 
-Feel free to provide feedback or suggestions for improvement. You can reach me at Email: mfauzanfauzan123@gmail.com and: [Linkedin](https://www.linkedin.com/in/muhammadfauzandsml/)
+Feel free to provide feedback or suggestions for improvement. You can reach me at Email: mfauzanfauzan123@gmail.com and: [Linkedin](www.linkedin.com/in/mfauzandsml)
